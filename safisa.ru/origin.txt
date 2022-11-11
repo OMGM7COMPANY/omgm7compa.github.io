@@ -1,0 +1,224 @@
+Uri: http://safisa.ru/
+File Name: c:\Downloaded Web Sites\safisa.ru\index.htm
+Content Type: text/html
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/hall1.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\hall1.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/small-hall-1140-1-2.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\small-hall-1140-1-2.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/keytering.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\keytering.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/organizaciya-meropriyatiy.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\organizaciya-meropriyatiy.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/zakaz-artistov.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\zakaz-artistov.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/konditerskaya.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\konditerskaya.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/themes/safisa/css/fonts.css
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\themes\safisa\css\fonts.css
+Content Type: text/css
+
+Uri: http://safisa.ru/apple-icon-57x57.png
+File Name: c:\Downloaded Web Sites\safisa.ru\apple-icon-57x57.png
+Content Type: image/png
+
+Uri: http://safisa.ru/apple-icon-60x60.png
+File Name: c:\Downloaded Web Sites\safisa.ru\apple-icon-60x60.png
+Content Type: image/png
+
+Uri: http://safisa.ru/apple-icon-72x72.png
+File Name: c:\Downloaded Web Sites\safisa.ru\apple-icon-72x72.png
+Content Type: image/png
+
+Uri: http://safisa.ru/apple-icon-76x76.png
+File Name: c:\Downloaded Web Sites\safisa.ru\apple-icon-76x76.png
+Content Type: image/png
+
+Uri: http://safisa.ru/apple-icon-114x114.png
+File Name: c:\Downloaded Web Sites\safisa.ru\apple-icon-114x114.png
+Content Type: image/png
+
+Uri: http://safisa.ru/apple-icon-120x120.png
+File Name: c:\Downloaded Web Sites\safisa.ru\apple-icon-120x120.png
+Content Type: image/png
+
+Uri: http://safisa.ru/apple-icon-144x144.png
+File Name: c:\Downloaded Web Sites\safisa.ru\apple-icon-144x144.png
+Content Type: image/png
+
+Uri: http://safisa.ru/apple-icon-152x152.png
+File Name: c:\Downloaded Web Sites\safisa.ru\apple-icon-152x152.png
+Content Type: image/png
+
+Uri: http://safisa.ru/apple-icon-180x180.png
+File Name: c:\Downloaded Web Sites\safisa.ru\apple-icon-180x180.png
+Content Type: image/png
+
+Uri: http://safisa.ru/android-icon-192x192.png
+File Name: c:\Downloaded Web Sites\safisa.ru\android-icon-192x192.png
+Content Type: image/png
+
+Uri: http://safisa.ru/favicon-32x32.png
+File Name: c:\Downloaded Web Sites\safisa.ru\favicon-32x32.png
+Content Type: image/png
+
+Uri: http://safisa.ru/favicon-96x96.png
+File Name: c:\Downloaded Web Sites\safisa.ru\favicon-96x96.png
+Content Type: image/png
+
+Uri: http://safisa.ru/favicon-16x16.png
+File Name: c:\Downloaded Web Sites\safisa.ru\favicon-16x16.png
+Content Type: image/png
+
+Uri: http://safisa.ru/manifest.json
+File Name: c:\Downloaded Web Sites\safisa.ru\manifest.json
+Content Type: application/json
+
+Uri: http://safisa.ru/wp-content/themes/safisa/css/index.css
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\themes\safisa\css\index.css
+Content Type: text/css
+
+Uri: http://safisa.ru/wp-content/themes/safisa/img/logo-new.png
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\themes\safisa\img\logo-new.png
+Content Type: image/png
+
+Uri: http://safisa.ru/wp-content/themes/safisa/img/logo-big-new2.png
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\themes\safisa\img\logo-big-new2.png
+Content Type: image/png
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/1233344.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\1233344.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/about-small.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\about-small.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/about-2.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\about-2.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/g-interior-1-2.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\g-interior-1-2.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/g-interior-2-2.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\g-interior-2-2.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/g-interior-3-2.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\g-interior-3-2.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/g-interior-4-2.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\g-interior-4-2.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/g-interior-5-2.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\g-interior-5-2.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/g-kitchen-1-2.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\g-kitchen-1-2.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/g-kitchen-2-2.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\g-kitchen-2-2.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/g-kitchen-3-2.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\g-kitchen-3-2.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/g-kitchen-4-2.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\g-kitchen-4-2.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/g-kitchen-5-2.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\g-kitchen-5-2.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/g-oformlenie-1-2.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\g-oformlenie-1-2.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/g-oformlenie-2-2.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\g-oformlenie-2-2.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/g-oformlenie-3-2.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\g-oformlenie-3-2.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/g-oformlenie-4-2.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\g-oformlenie-4-2.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/g-oformlenie-5-2.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\g-oformlenie-5-2.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/g-hronika-1-2.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\g-hronika-1-2.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/g-hronika-2-2.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\g-hronika-2-2.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/g-hronika-3-2.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\g-hronika-3-2.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/g-hronika-4-2.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\g-hronika-4-2.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/g-hronika-5-2.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\g-hronika-5-2.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/kitchen-1.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\kitchen-1.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/kitchen-2.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\kitchen-2.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/uploads/2022/07/kitchen-3.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\uploads\2022\07\kitchen-3.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/themes/safisa/js/jquery-3.6.0.min.js
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\themes\safisa\js\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: http://safisa.ru/wp-content/themes/safisa/js/index.js
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\themes\safisa\js\index.js
+Content Type: application/javascript
+
+Uri: http://safisa.ru/wp-content/themes/safisa/fonts/Denistina.ttf
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\themes\safisa\fonts\Denistina.ttf
+Content Type: font/ttf
+
+Uri: http://safisa.ru/wp-content/themes/safisa/img/head.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\themes\safisa\img\head.jpg
+Content Type: image/jpeg
+
+Uri: http://safisa.ru/wp-content/themes/safisa/img/kitchen-bg.jpg
+File Name: c:\Downloaded Web Sites\safisa.ru\wp-content\themes\safisa\img\kitchen-bg.jpg
+Content Type: image/jpeg
+
